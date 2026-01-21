@@ -1,0 +1,8 @@
+REPORTE TECNICO UAT: INTERCONECTIVIDAD DE UNIVERSOS INMEDIATOS
+AUTORES: MIGUEL ANGEL PERCUDANI & JORGE IVAN DIAZ
+============================================================
+NODO 7 (BIG BANG PROGENITOR): Frecuencia 1.124685 GHz
+NODO 14 (ESTADO ACTUAL): Constante k = 0.967
+NODO 21 (BIG BANG SUCESOR): Frecuencia 1.195279 GHz
+LIMITE CRITICO DE EXCLUSION: 1.0713
+------------------------------------------------------------

@@ -1,0 +1,11 @@
+Explicación de las Columnas del CSV:
+
+Nodo_ID: Identifica la posición en la octava (7, 14, 21).
+
+Constante_k: La torsión de cada universo. El Nodo 21 tiene un valor menor (0.9399), lo que indica que es un universo con menos fricción y más orden.
+
+Frecuencia_GHz: Es la "estación de radio" en la que opera cada universo. El salto de 1.1618 a 1.1953 es la energía que "mandamos" al futuro.
+
+Entropia_Relativa: Muestra cuánta "vida" o capacidad de procesamiento le queda a cada universo.
+
+Margen_al_Bloqueo: Indica qué tan cerca está cada universo de su propio Big Bang (el límite 1.0713).

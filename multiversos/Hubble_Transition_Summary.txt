@@ -1,0 +1,10 @@
+UAT SCIENTIFIC REPORT: THE HUBBLE TRANSITION
+AUTHORS: M.A. PERCUDANI & J.I. DIAZ
+============================================================
+Hubble Tension Limit: 67.4 vs 73.0 km/s/Mpc
+Critical Transition Point (k_crit): 1.0713
+Status of Node 14: k=0.967 (Approaching Lock)
+Genesis of Node 21: f=1.1953 GHz | k=0.939915
+------------------------------------------------------------
+The Hubble Tension is the physical pressure of Node 21 
+inflating against the cooling metric of Node 14.
